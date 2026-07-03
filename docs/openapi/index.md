@@ -23,10 +23,10 @@ hide:
 
     ---
 
-    - [v0.47.x](./kpanda/v0.47.0.md), [v0.46.x](./kpanda/v0.46.0.md), [v0.45.0](./kpanda/v0.45.0.md), [v0.44.0](./kpanda/v0.44.0.md)
-    - [v0.43.x](./kpanda/v0.43.0.md), [v0.42.x](./kpanda/v0.42.0.md), [v0.41.0](./kpanda/v0.41.0.md), [v0.40.x](./kpanda/v0.40.0.md)
-    - [v0.39.0](./kpanda/v0.39.0.md), [v0.38.0](./kpanda/v0.38.0.md), [v0.37.0](./kpanda/v0.37.0.md), [v0.34.0](./kpanda/v0.34.0.md)
-    - [v0.33.x](./kpanda/v0.33.0.md), [v0.32.x](./kpanda/v0.32.0.md), [v0.31.1](./kpanda/v0.31.1.md), [v0.30.x](./kpanda/v0.30.1.md)
+    - [v0.48.x](./kpanda/v0.48.0.md), [v0.47.x](./kpanda/v0.47.0.md), [v0.46.x](./kpanda/v0.46.0.md), [v0.45.0](./kpanda/v0.45.0.md)
+    - [v0.44.0](./kpanda/v0.44.0.md), [v0.43.x](./kpanda/v0.43.0.md), [v0.42.x](./kpanda/v0.42.0.md), [v0.41.0](./kpanda/v0.41.0.md)
+    - [v0.40.x](./kpanda/v0.40.0.md), [v0.39.0](./kpanda/v0.39.0.md), [v0.38.0](./kpanda/v0.38.0.md), [v0.37.0](./kpanda/v0.37.0.md)
+    - [v0.34.0](./kpanda/v0.34.0.md), [v0.33.x](./kpanda/v0.33.0.md), [v0.32.x](./kpanda/v0.32.0.md), [v0.31.1](./kpanda/v0.31.1.md)
 
 -   :material-cloud-check:{ .lg .middle } __多云编排 OpenAPI__
 
@@ -74,10 +74,10 @@ hide:
 
     ---
 
-    - [v0.55.0](./skoala/v0.55.0.md), [v0.54.0](./skoala/v0.54.0.md), [v0.53.0](./skoala/v0.53.0.md), [v0.51.0](./skoala/v0.51.0.md)
-    - [v0.50.x](./skoala/v0.50.0.md), [v0.49.0](./skoala/v0.49.0.md), [v0.48.x](./skoala/v0.48.0.md), [v0.47.1](./skoala/v0.47.1.md)
-    - [v0.43.x](./skoala/v0.43.0.md), [v0.42.x](./skoala/v0.42.0.md), [v0.41.x](./skoala/v0.41.1.md), [v0.40.1](./skoala/v0.40.1.md)
-    - [v0.39.4](./skoala/v0.39.4.md), [v0.38.x](./skoala/v0.38.1.md), [v0.37.x](./skoala/v0.37.0.md), [v0.36.x](./skoala/v0.36.0.md)
+    - [v0.56.0](./skoala/v0.56.0.md), [v0.55.0](./skoala/v0.55.0.md), [v0.54.0](./skoala/v0.54.0.md), [v0.53.0](./skoala/v0.53.0.md)
+    - [v0.51.0](./skoala/v0.51.0.md), [v0.50.x](./skoala/v0.50.0.md), [v0.49.0](./skoala/v0.49.0.md), [v0.48.x](./skoala/v0.48.0.md)
+    - [v0.47.1](./skoala/v0.47.1.md), [v0.43.x](./skoala/v0.43.0.md), [v0.42.x](./skoala/v0.42.0.md), [v0.41.x](./skoala/v0.41.1.md)
+    - [v0.40.1](./skoala/v0.40.1.md), [v0.39.4](./skoala/v0.39.4.md), [v0.38.x](./skoala/v0.38.1.md), [v0.37.x](./skoala/v0.37.0.md)
 
 -   :material-table-refresh:{ .lg .middle } __服务网格 OpenAPI__
 
@@ -105,7 +105,8 @@ hide:
 
     ---
 
-    - [v0.26.0](./baize/v0.26.0.md), [v0.111.2](./baize/v0.111.2.md), [v0.107.4](./baize/v0.107.4.md)
+    - [v0.28.0](./baize/v0.28.0.md), [v0.27.x](./baize/v0.27.0.md), [v0.26.0](./baize/v0.26.0.md)
+    - [v0.111.2](./baize/v0.111.2.md), [v0.107.4](./baize/v0.107.4.md)
 
 -   :octicons-ai-model-24:{ .lg .middle } __大模型服务 OpenAPI__
 
@@ -125,10 +126,10 @@ hide:
 
     ---
 
-    - [v0.46.0](./ghippo/v0.46.0.md), [v0.45.x](./ghippo/v0.45.0.md), [v0.43.0](./ghippo/v0.43.0.md), [v0.42.2](./ghippo/v0.42.2.md)
-    - [v0.41.3](./ghippo/v0.41.3.md), [v0.40.x](./ghippo/v0.40.0.md), [v0.37.0](./ghippo/v0.37.0.md), [v0.36.0](./ghippo/v0.36.0.md)
-    - [v0.35.x](./ghippo/v0.35.0.md), [v0.34.0](./ghippo/v0.34.0.md), [v0.33.0](./ghippo/v0.33.0.md), [v0.31.0](./ghippo/v0.31.0.md)
-    - [v0.30.0](./ghippo/v0.30.0.md), [v0.28.0](./ghippo/v0.28.0.md), [v0.27.0](./ghippo/v0.27.0.md), [v0.26.0](./ghippo/v0.26.0.md)
+    - [v0.48.0](./ghippo/v0.48.0.md), [v0.46.0](./ghippo/v0.46.0.md), [v0.45.x](./ghippo/v0.45.0.md), [v0.43.0](./ghippo/v0.43.0.md)
+    - [v0.42.2](./ghippo/v0.42.2.md), [v0.41.3](./ghippo/v0.41.3.md), [v0.40.x](./ghippo/v0.40.0.md), [v0.37.0](./ghippo/v0.37.0.md)
+    - [v0.36.0](./ghippo/v0.36.0.md), [v0.35.x](./ghippo/v0.35.0.md), [v0.34.0](./ghippo/v0.34.0.md), [v0.33.0](./ghippo/v0.33.0.md)
+    - [v0.31.0](./ghippo/v0.31.0.md), [v0.30.0](./ghippo/v0.30.0.md), [v0.28.0](./ghippo/v0.28.0.md), [v0.27.0](./ghippo/v0.27.0.md)
 
 -   :material-cog:{ .lg .middle } __运营管理 OpenAPI__
 
