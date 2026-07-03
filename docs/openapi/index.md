@@ -105,7 +105,7 @@ hide:
 
     ---
 
-    - [v0.28.0](./baize/v0.26.0.md), [v0.27.x](./baize/v0.27.0.md), [v0.26.0](./baize/v0.26.0.md)
+    - [v0.28.0](./baize/v0.28.0.md), [v0.27.x](./baize/v0.27.0.md), [v0.26.0](./baize/v0.26.0.md)
     - [v0.111.2](./baize/v0.111.2.md), [v0.107.4](./baize/v0.107.4.md)
 
 -   :octicons-ai-model-24:{ .lg .middle } __大模型服务 OpenAPI__
