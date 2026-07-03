@@ -44,7 +44,7 @@ nav:
                     - v0.109.1: openapi/amamba/v0.109.1.md
         - 容器:
             - 容器管理 OpenAPI:
-                - v0.49.x:
+                - v0.48.x:
                     - v0.48.0: openapi/kpanda/v0.48.0.md
                     - v0.48.1: openapi/kpanda/v0.48.1.md
                 - v0.47.x:
