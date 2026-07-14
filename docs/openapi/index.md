@@ -112,7 +112,7 @@ hide:
 
     ---
 
-    - [v0.16.0](./hydra/v0.16.0.md), [v0.15.2](./hydra/v0.15.2.md)
+    - [v0.16.x](./hydra/v0.16.0.md), [v0.15.2](./hydra/v0.15.2.md)
 
 -   :computer:{ .lg .middle } __算力云 OpenAPI__
 
@@ -126,7 +126,7 @@ hide:
 
     ---
 
-    - [v0.48.0](./ghippo/v0.48.0.md), [v0.46.0](./ghippo/v0.46.0.md), [v0.45.x](./ghippo/v0.45.0.md), [v0.43.0](./ghippo/v0.43.0.md)
+    - [v0.48.x](./ghippo/v0.48.0.md), [v0.46.0](./ghippo/v0.46.0.md), [v0.45.x](./ghippo/v0.45.0.md), [v0.43.0](./ghippo/v0.43.0.md)
     - [v0.42.2](./ghippo/v0.42.2.md), [v0.41.3](./ghippo/v0.41.3.md), [v0.40.x](./ghippo/v0.40.0.md), [v0.37.0](./ghippo/v0.37.0.md)
     - [v0.36.0](./ghippo/v0.36.0.md), [v0.35.x](./ghippo/v0.35.0.md), [v0.34.0](./ghippo/v0.34.0.md), [v0.33.0](./ghippo/v0.33.0.md)
     - [v0.31.0](./ghippo/v0.31.0.md), [v0.30.0](./ghippo/v0.30.0.md), [v0.28.0](./ghippo/v0.28.0.md), [v0.27.0](./ghippo/v0.27.0.md)
