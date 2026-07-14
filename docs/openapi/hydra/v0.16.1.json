@@ -1,7 +1,7 @@
 {
   "swagger": "2.0",
   "info": {
-    "title": "Topohub",
+    "title": "Hydra",
     "version": "v0.16.1"
   },
   "tags": [
